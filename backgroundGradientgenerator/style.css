@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    background: linear-gradient(to right, #f53636, #ffff00);
+}
+section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 10px 26px;
+    font-size: 18px;
+    border-radius: 25px;
+    border: none;
+}
+h2{
+    font-size: 36px;
+}
+.colorCode{
+    font-size: 18px;
+}
